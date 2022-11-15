@@ -1,0 +1,7 @@
+C:\Users\fcabrera\source\repos\botWhatsAppSolution\botWhatsApp\obj\Release\netcoreapp3.1\PubTmp\Out\botWhatsApp.exe
+C:\Users\fcabrera\source\repos\botWhatsAppSolution\botWhatsApp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\fcabrera\source\repos\botWhatsAppSolution\botWhatsApp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\fcabrera\source\repos\botWhatsAppSolution\botWhatsApp\obj\Release\netcoreapp3.1\PubTmp\Out\botWhatsApp.dll
+C:\Users\fcabrera\source\repos\botWhatsAppSolution\botWhatsApp\obj\Release\netcoreapp3.1\PubTmp\Out\botWhatsApp.deps.json
+C:\Users\fcabrera\source\repos\botWhatsAppSolution\botWhatsApp\obj\Release\netcoreapp3.1\PubTmp\Out\botWhatsApp.runtimeconfig.json
+C:\Users\fcabrera\source\repos\botWhatsAppSolution\botWhatsApp\obj\Release\netcoreapp3.1\PubTmp\Out\botWhatsApp.pdb

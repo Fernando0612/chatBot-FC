@@ -1,0 +1,22 @@
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace botWhatsApp.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class ServiceController : ControllerBase
+    { 
+
+       [HttpGet("test")] 
+       public IActionResult Get()
+        {
+            return Ok("TEST DEV");
+        }
+
+    }
+}

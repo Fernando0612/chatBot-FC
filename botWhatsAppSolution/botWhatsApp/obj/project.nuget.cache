@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Lq44lsUOADY1PtNV6bIiyFn7UUILlcSweNcGWWhv5nKJ0gZqOfzyXC72RbeupXUhWxAfC3FPnV2XZ5y7ZXYtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fcabrera\\source\\repos\\botWhatsAppSolution\\botWhatsApp\\botWhatsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fcabrera\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
+    "C:\\Users\\fcabrera\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
